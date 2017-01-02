@@ -1,1 +1,1 @@
-## Welcome to mikuyo home , happy new year.
+## Welcome to mikuyo home
