@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Mikuyo Blog
+description: Mikuyo-Blog A Elegant template for Jekyll
+keywords: Geek, Interesting, Freedom
+author: Charles
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
