@@ -1,0 +1,31 @@
+---
+title:  "Web Development!"
+subtitle: "Front-end development!"
+author: "Charles"
+avatar: "img/authors/charles.png"
+image: "img/a.jpg"
+date:   2017-02-3 22:57:00
+---
+
+### What Is Back-End Development?
+What back-end developers do can vary greatly, depending on the size and the scope of the application they are working on.
+
+I’ve held many jobs where I was a back-end developer, working on the business logic in an application, and feeding and retrieving data from the front-end.
+
+In the web development world, most back-end developers concern themselves with building the actual logic behind the application they are working on.
+
+Often, front-end developers will build out a user interface, and back-end developers will write code that makes it all work.
+
+For example, a front-end developer might create a screen in an application with a button to press to get the customer’s data.
+
+A back-end developer might write the code that makes that button work by figuring out what data to fetch from the database for the appropriate customer and delivering it back to the front-end, where it is eventually displayed.
+
+A back-end developer might also be heavily involved in the architecture of a system, deciding how to organize the logic of the system so that it can be maintained and run properly.
+
+He might be involved in building frameworks or the architecture of a system to make it easier to program against.
+
+Back-end developers tend to spend much more time implementing algorithms and solving problems than front-end developers do.
+
+I’ve always liked back-end development work because it feels like more of a challenge.
+
+That’s not to say that front-end developers don’t ever solve difficult problems, but often front-end development work is more about creating user interfaces and hooking them up rather than implementing the actual business logic that makes the app work.

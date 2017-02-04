@@ -1,6 +1,6 @@
 ---
 title:  "Web Development!"
-subtitle: "Front-end development!"
+subtitle: "Code is life!"
 author: "Charles"
 avatar: "img/authors/charles.png"
 image: "img/a.jpg"
